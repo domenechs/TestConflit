@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hello STASH
-=======
-Mise en pratique STASH
->>>>>>> d0f17639816556349c6eed82727a5aa1472a07f6
+
